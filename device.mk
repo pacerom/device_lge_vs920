@@ -13,11 +13,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/init.iprj.rc:root/init.iprj.rc
 
-## LTE on CDMA
-PRODUCT_PACKAGES += \
-    Stk
-
 PRODUCT_NAME := full_vs920
 PRODUCT_DEVICE := vs920
 PRODUCT_MODEL := VS920 4G
-PRODUCT_BRAND := Verizon
