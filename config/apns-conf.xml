@@ -25,7 +25,7 @@
 
 <!-- If you edit this version, also edit the version in the partner-supplied 
     apns-conf.xml configuration file -->
-<apns version="7">
+<apns version="8">
 <!-- LGE_CHANGE_S [LGE_DATA][MODIFY_APN_TYPE] seungmin.jeong@lge.com 2012-02-18 -->
 <!-- ADD: [d1lv][afw][vzw] set editorble -->  
 <apn carrier="VZWIMS"
