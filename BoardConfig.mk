@@ -12,3 +12,5 @@ TARGET_KERNEL_CONFIG := cyanogenmod_vs920_defconfig
 TARGET_PREBUILT_KERNEL := device/lge/vs920/kernel
 
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/lge/vs920/bluetooth
+
+TARGET_RECOVERY_FSTAB = device/lge/vs920/fstab.iprj
