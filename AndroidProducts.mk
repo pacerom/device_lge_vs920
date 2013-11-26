@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/vs920.mk
+    $(LOCAL_DIR)/pace_vs920.mk

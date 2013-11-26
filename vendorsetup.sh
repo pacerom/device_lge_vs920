@@ -1,1 +1,1 @@
-add_lunch_combo cm_vs920-userdebug
+add_lunch_combo pace_vs920-userdebug
